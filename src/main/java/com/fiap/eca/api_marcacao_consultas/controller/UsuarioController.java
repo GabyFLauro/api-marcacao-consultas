@@ -1,5 +1,6 @@
 package com.fiap.eca.api_marcacao_consultas.controller;
 
+import com.fiap.eca.api_marcacao_consultas.dto.LoginRequest;
 import com.fiap.eca.api_marcacao_consultas.model.Usuario;
 import com.fiap.eca.api_marcacao_consultas.service.UsuarioService;
 import org.springframework.http.ResponseEntity;
