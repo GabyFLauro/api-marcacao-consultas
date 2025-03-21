@@ -1,7 +1,5 @@
 package com.fiap.eca.api_marcacao_consultas.security;
 
-
-
 import io.jsonwebtoken.*;
 import io.jsonwebtoken.io.Decoders;
 import io.jsonwebtoken.security.Keys;
